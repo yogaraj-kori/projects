@@ -1,1 +1,0 @@
-this is an self made project on uber to show the density of rides on multiple days. I have divided the date stamp into days, weekdays and hour and have visualized the density of rides for each space using matplotlib.pyplot. 

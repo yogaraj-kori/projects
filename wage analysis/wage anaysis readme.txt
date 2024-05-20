@@ -1,0 +1,1 @@
+this is a weekly wage analysis for the population of US, with a dataset of 1.4 Million records we have a huge data with incredibly challenging feautres, in this project we are doing feature engineering, feature selection and feature extraction to extract the meaning insights from the data, along with prediction using linear regression

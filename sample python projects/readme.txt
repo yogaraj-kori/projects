@@ -30,7 +30,6 @@ GPT don't chat
 {To} {me} {or} yourself
 Unless {it} {is} noon
 On the Moon.
-[7.5 marks]
 b) Using another single regular expression, write another function that highlights all the first three characters on
 each line. Your answer should look like this:
 {GPT} don't chat

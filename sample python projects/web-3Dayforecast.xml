@@ -1,0 +1,417 @@
+
+<forecast time="2024-02-20T10:00:00" issued="2024-02-20T05:00:00">
+    <station>
+        <id>03969</id>
+        <location>Dublin</location>
+        <day>
+            <day_num>20</day_num>
+            <date>2024-02-20T12:00:00</date>
+            <min_temp>5</min_temp>
+            <max_temp>12</max_temp>
+            <weather>light_rain.png</weather>
+            <weather_night>light_rain.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>LIGHT_RAIN</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>21</day_num>
+            <date>2024-02-21T12:00:00</date>
+            <min_temp>4</min_temp>
+            <max_temp>13</max_temp>
+            <weather>light_rain.png</weather>
+            <weather_night>rain_showers.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>RAIN_SHOWERS</weather_textN>
+            <wind_speed> 40 </wind_speed>
+            <wind_dir>W</wind_dir>
+            <wind_speed_night> 20 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>22</day_num>
+            <date>2024-02-22T12:00:00</date>
+            <min_temp>0</min_temp>
+            <max_temp>6</max_temp>
+            <weather>rain_showers.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> RAIN_SHOWERS</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>W</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>WSW</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03956</id>
+        <location>Wexford</location>
+        <day>
+            <day_num>20</day_num>
+            <date>2024-02-20T12:00:00</date>
+            <min_temp>7</min_temp>
+            <max_temp>11</max_temp>
+            <weather>light_rain.png</weather>
+            <weather_night>medium_rain.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>MEDIUM_RAIN</weather_textN>
+            <wind_speed> 35 </wind_speed>
+            <wind_dir>SW</wind_dir>
+            <wind_speed_night> 45 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>21</day_num>
+            <date>2024-02-21T12:00:00</date>
+            <min_temp>4</min_temp>
+            <max_temp>14</max_temp>
+            <weather>light_rain.png</weather>
+            <weather_night>rain_showers.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>RAIN_SHOWERS</weather_textN>
+            <wind_speed> 45 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>22</day_num>
+            <date>2024-02-22T12:00:00</date>
+            <min_temp>0</min_temp>
+            <max_temp>7</max_temp>
+            <weather>rain_showers.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> RAIN_SHOWERS</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>W</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>W</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03955</id>
+        <location>Cork</location>
+        <day>
+            <day_num>20</day_num>
+            <date>2024-02-20T12:00:00</date>
+            <min_temp>7</min_temp>
+            <max_temp>12</max_temp>
+            <weather>light_rain.png</weather>
+            <weather_night>medium_rain.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>MEDIUM_RAIN</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SW</wind_dir>
+            <wind_speed_night> 40 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>21</day_num>
+            <date>2024-02-21T12:00:00</date>
+            <min_temp>4</min_temp>
+            <max_temp>13</max_temp>
+            <weather>medium_rain_showers.png</weather>
+            <weather_night>rain_showers.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>RAIN_SHOWERS</weather_textN>
+            <wind_speed> 40 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>W</wind_dir_night>
+        </day>
+        <day>
+            <day_num>22</day_num>
+            <date>2024-02-22T12:00:00</date>
+            <min_temp>2</min_temp>
+            <max_temp>7</max_temp>
+            <weather>rain_showers.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> RAIN_SHOWERS</weather_text>
+            <weather_textN>SCATTERED_CLOUDS</weather_textN>
+            <wind_speed> 35 </wind_speed>
+            <wind_dir>W</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>W</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03953</id>
+        <location>Kerry</location>
+        <day>
+            <day_num>20</day_num>
+            <date>2024-02-20T12:00:00</date>
+            <min_temp>8</min_temp>
+            <max_temp>11</max_temp>
+            <weather>medium_rain.png</weather>
+            <weather_night>heavy_rain.png</weather_night>
+            <weather_text> MEDIUM_RAIN</weather_text>
+            <weather_textN>HEAVY_RAIN</weather_textN>
+            <wind_speed> 40 </wind_speed>
+            <wind_dir>SW</wind_dir>
+            <wind_speed_night> 45 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>21</day_num>
+            <date>2024-02-21T12:00:00</date>
+            <min_temp>2</min_temp>
+            <max_temp>13</max_temp>
+            <weather>medium_rain_showers.png</weather>
+            <weather_night>medium_rain.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN</weather_textN>
+            <wind_speed> 40 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 35 </wind_speed_night>
+            <wind_dir_night>SW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>22</day_num>
+            <date>2024-02-22T12:00:00</date>
+            <min_temp>3</min_temp>
+            <max_temp>7</max_temp>
+            <weather>hail_showers.png</weather>
+            <weather_night>hail_showers.png</weather_night>
+            <weather_text> HAIL_SHOWERS</weather_text>
+            <weather_textN>HAIL_SHOWERS</weather_textN>
+            <wind_speed> 40 </wind_speed>
+            <wind_dir>WNW</wind_dir>
+            <wind_speed_night> 35 </wind_speed_night>
+            <wind_dir_night>WNW</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03985</id>
+        <location>Galway</location>
+        <day>
+            <day_num>20</day_num>
+            <date>2024-02-20T12:00:00</date>
+            <min_temp>6</min_temp>
+            <max_temp>11</max_temp>
+            <weather>medium_rain.png</weather>
+            <weather_night>medium_rain.png</weather_night>
+            <weather_text> MEDIUM_RAIN</weather_text>
+            <weather_textN>MEDIUM_RAIN</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 35 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>21</day_num>
+            <date>2024-02-21T12:00:00</date>
+            <min_temp>3</min_temp>
+            <max_temp>12</max_temp>
+            <weather>medium_rain_showers.png</weather>
+            <weather_night>medium_rain.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN</weather_textN>
+            <wind_speed> 35 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>22</day_num>
+            <date>2024-02-22T12:00:00</date>
+            <min_temp>2</min_temp>
+            <max_temp>6</max_temp>
+            <weather>hail_showers.png</weather>
+            <weather_night>medium_sleet_showers.png</weather_night>
+            <weather_text> HAIL_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_SLEET_SHOWERS</weather_textN>
+            <wind_speed> 35 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>W</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03978</id>
+        <location>Donegal</location>
+        <day>
+            <day_num>20</day_num>
+            <date>2024-02-20T12:00:00</date>
+            <min_temp>4</min_temp>
+            <max_temp>10</max_temp>
+            <weather>rain_showers.png</weather>
+            <weather_night>rain_showers.png</weather_night>
+            <weather_text> RAIN_SHOWERS</weather_text>
+            <weather_textN>RAIN_SHOWERS</weather_textN>
+            <wind_speed> 35 </wind_speed>
+            <wind_dir>W</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>21</day_num>
+            <date>2024-02-21T12:00:00</date>
+            <min_temp>1</min_temp>
+            <max_temp>10</max_temp>
+            <weather>medium_rain_showers.png</weather>
+            <weather_night>medium_rain.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN</weather_textN>
+            <wind_speed> 40 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>22</day_num>
+            <date>2024-02-22T12:00:00</date>
+            <min_temp>1</min_temp>
+            <max_temp>5</max_temp>
+            <weather>medium_sleet_showers.png</weather>
+            <weather_night>medium_sleet_showers.png</weather_night>
+            <weather_text> MEDIUM_SLEET_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_SLEET_SHOWERS</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>WSW</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03966</id>
+        <location>Offaly</location>
+        <day>
+            <day_num>20</day_num>
+            <date>2024-02-20T12:00:00</date>
+            <min_temp>5</min_temp>
+            <max_temp>12</max_temp>
+            <weather>medium_rain.png</weather>
+            <weather_night>heavy_rain.png</weather_night>
+            <weather_text> MEDIUM_RAIN</weather_text>
+            <weather_textN>HEAVY_RAIN</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SW</wind_dir>
+            <wind_speed_night> 35 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>21</day_num>
+            <date>2024-02-21T12:00:00</date>
+            <min_temp>2</min_temp>
+            <max_temp>12</max_temp>
+            <weather>rain_showers.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 35 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>22</day_num>
+            <date>2024-02-22T12:00:00</date>
+            <min_temp>1</min_temp>
+            <max_temp>5</max_temp>
+            <weather>medium_sleet_showers.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> MEDIUM_SLEET_SHOWERS</weather_text>
+            <weather_textN>SCATTERED_CLOUDS</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>W</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>W</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03970</id>
+        <location>Mayo</location>
+        <day>
+            <day_num>20</day_num>
+            <date>2024-02-20T12:00:00</date>
+            <min_temp>5</min_temp>
+            <max_temp>11</max_temp>
+            <weather>rain_showers.png</weather>
+            <weather_night>medium_rain.png</weather_night>
+            <weather_text> RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN</weather_textN>
+            <wind_speed> 35 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>21</day_num>
+            <date>2024-02-21T12:00:00</date>
+            <min_temp>2</min_temp>
+            <max_temp>11</max_temp>
+            <weather>medium_rain_showers.png</weather>
+            <weather_night>medium_rain.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_RAIN</weather_textN>
+            <wind_speed> 35 </wind_speed>
+            <wind_dir>W</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>22</day_num>
+            <date>2024-02-22T12:00:00</date>
+            <min_temp>2</min_temp>
+            <max_temp>5</max_temp>
+            <weather>medium_sleet_showers.png</weather>
+            <weather_night>medium_sleet_showers.png</weather_night>
+            <weather_text> MEDIUM_SLEET_SHOWERS</weather_text>
+            <weather_textN>MEDIUM_SLEET_SHOWERS</weather_textN>
+            <wind_speed> 20 </wind_speed>
+            <wind_dir>W</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>W</wind_dir_night>
+        </day>
+    </station>
+    <station>
+        <id>03917</id>
+        <location>Belfast</location>
+        <day>
+            <day_num>20</day_num>
+            <date>2024-02-20T12:00:00</date>
+            <min_temp>3</min_temp>
+            <max_temp>11</max_temp>
+            <weather>medium_rain.png</weather>
+            <weather_night>rain_showers.png</weather_night>
+            <weather_text> MEDIUM_RAIN</weather_text>
+            <weather_textN>RAIN_SHOWERS</weather_textN>
+            <wind_speed> 30 </wind_speed>
+            <wind_dir>SSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSE</wind_dir_night>
+        </day>
+        <day>
+            <day_num>21</day_num>
+            <date>2024-02-21T12:00:00</date>
+            <min_temp>3</min_temp>
+            <max_temp>12</max_temp>
+            <weather>light_rain.png</weather>
+            <weather_night>medium_rain_showers.png</weather_night>
+            <weather_text> LIGHT_RAIN</weather_text>
+            <weather_textN>MEDIUM_RAIN_SHOWERS</weather_textN>
+            <wind_speed> 35 </wind_speed>
+            <wind_dir>WSW</wind_dir>
+            <wind_speed_night> 30 </wind_speed_night>
+            <wind_dir_night>SSW</wind_dir_night>
+        </day>
+        <day>
+            <day_num>22</day_num>
+            <date>2024-02-22T12:00:00</date>
+            <min_temp>0</min_temp>
+            <max_temp>5</max_temp>
+            <weather>medium_rain_showers.png</weather>
+            <weather_night>sun_with_light_cloud.png</weather_night>
+            <weather_text> MEDIUM_RAIN_SHOWERS</weather_text>
+            <weather_textN>SUN_WITH_LIGHT_CLOUD</weather_textN>
+            <wind_speed> 25 </wind_speed>
+            <wind_dir>W</wind_dir>
+            <wind_speed_night> 25 </wind_speed_night>
+            <wind_dir_night>WSW</wind_dir_night>
+        </day>
+    </station>
+</forecast>

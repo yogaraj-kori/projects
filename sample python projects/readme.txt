@@ -1,3 +1,4 @@
+XML file handling
 step 1:In this program I am creating a function to import the web-3Dayforecast.xml XML data file. This function includes exceptionhandling clauses.
 Using a loop structure, I am printing the values associated with each day for each station in the XML data.
   i. day_num
@@ -10,3 +11,8 @@ step 3: I am Extracting the following information from the XML weather forecast 
   • day_num
   • wind_speed
   • wind_dir
+
+Numpy nd array:
+step 1: here I am Creating a 2-dimensional NumPy ndarray filled with 500 random numbers. Ensuring that the array has 10 rows and 50 columns. I am Computing the sum total of all entries in the first five rows and also Computing the sum total of all entries in the fifth and tenth columns.
+step 2: Spliting the array from step 1 into 5 separate arrays. The number of columns in each array are equal, and there
+is 10 rows in each array and Adding together corresponding array entry values from each of the 5 arrays.
